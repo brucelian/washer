@@ -6,7 +6,7 @@
 多方案选择
 按程序执行注水、洗涤、排水、漂洗
 
-![avatar](./实物效果图/外观.png)
+![avatar](./实物效果图/外观.jpg)
 
 ![avatar](http://baidu.com/pic/doge.png)
 
